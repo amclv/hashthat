@@ -1,79 +1,38 @@
-1617346130983	geckodriver	INFO	Listening on 127.0.0.1:49174
-1617346131814	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6s/7mcwwck109vc5kzn1k555pm00000gn/T/rust_mozprofileDgRYcv"
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1617346134426	Marionette	INFO	Listening on port 49183
-1617346134472	Marionette	WARN	TLS certificate errors will be ignored for this session
-1617346134485	Marionette	INFO	Stopped listening on port 49183
-console.warn: services.settings: main/cfr-fxa sync interrupted by shutdown
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-1617346151185	geckodriver	INFO	Listening on 127.0.0.1:49232
-1617346151193	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6s/7mcwwck109vc5kzn1k555pm00000gn/T/rust_mozprofile7GbLJq"
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1617346153469	Marionette	INFO	Listening on port 49237
-1617346153540	Marionette	WARN	TLS certificate errors will be ignored for this session
-1617346153556	Marionette	INFO	Stopped listening on port 49237
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-1617346234931	geckodriver	INFO	Listening on 127.0.0.1:49287
-1617346234940	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6s/7mcwwck109vc5kzn1k555pm00000gn/T/rust_mozprofileHaJOma"
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1617346237268	Marionette	INFO	Listening on port 49292
-1617346237292	Marionette	WARN	TLS certificate errors will be ignored for this session
-1617346237317	Marionette	INFO	Stopped listening on port 49292
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-1617346287513	geckodriver	INFO	Listening on 127.0.0.1:49337
-1617346287522	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6s/7mcwwck109vc5kzn1k555pm00000gn/T/rust_mozprofileglnFf4"
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1617346289863	Marionette	INFO	Listening on port 49342
-1617346289881	Marionette	WARN	TLS certificate errors will be ignored for this session
-1617346289987	Marionette	INFO	Stopped listening on port 49342
-console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
-console.warn: services.settings: main/cfr sync interrupted by shutdown
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-1617346858443	geckodriver	INFO	Listening on 127.0.0.1:49610
-1617346858452	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6s/7mcwwck109vc5kzn1k555pm00000gn/T/rust_mozprofileukN2BJ"
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1617346860858	Marionette	INFO	Listening on port 49615
-1617346860907	Marionette	WARN	TLS certificate errors will be ignored for this session
-1617346861025	Marionette	INFO	Stopped listening on port 49615
-console.warn: services.settings: main/cfr sync interrupted by shutdown
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-1617346861420	geckodriver	INFO	Listening on 127.0.0.1:49660
-1617346862428	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6s/7mcwwck109vc5kzn1k555pm00000gn/T/rust_mozprofileID6lqz"
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1617346864749	Marionette	INFO	Listening on port 49668
-1617346864792	Marionette	WARN	TLS certificate errors will be ignored for this session
-1617346864909	Marionette	INFO	Stopped listening on port 49668
-console.warn: services.settings: main/cfr sync interrupted by shutdown
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-1617346950558	geckodriver	INFO	Listening on 127.0.0.1:49760
-1617346950566	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6s/7mcwwck109vc5kzn1k555pm00000gn/T/rust_mozprofile8ENn07"
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1617346952705	Marionette	INFO	Listening on port 49765
-1617346952815	Marionette	WARN	TLS certificate errors will be ignored for this session
-1617346952896	Marionette	INFO	Stopped listening on port 49765
-console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-1617346953248	geckodriver	INFO	Listening on 127.0.0.1:49812
-1617346954255	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6s/7mcwwck109vc5kzn1k555pm00000gn/T/rust_mozprofileHaJrvX"
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1617346956372	Marionette	INFO	Listening on port 49819
-1617346956410	Marionette	WARN	TLS certificate errors will be ignored for this session
-1617346956500	Marionette	INFO	Stopped listening on port 49819
-console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
-
-###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
+1548740506277	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kq/z7k2vgsn7jb7l912nbvpltk40000gp/T/rust_mozprofile.IYVmdiHfoscS"
+1548740506797	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548740506797	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548740508760	Marionette	INFO	Listening on port 56249
+1548740508847	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548740509156	Marionette	INFO	Stopped listening on port 56249
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+1548740578848	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kq/z7k2vgsn7jb7l912nbvpltk40000gp/T/rust_mozprofile.r6kWUpaEdEwO"
+1548740579370	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548740579370	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548740580812	Marionette	INFO	Listening on port 56295
+1548740580902	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548740581202	Marionette	INFO	Stopped listening on port 56295
+1548740582784	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kq/z7k2vgsn7jb7l912nbvpltk40000gp/T/rust_mozprofile.Cr3o7Dv0xsf0"
+1548740583320	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548740583320	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548740584866	Marionette	INFO	Listening on port 56329
+1548740584935	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548740585258	Marionette	INFO	Stopped listening on port 56329
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+1548740653294	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kq/z7k2vgsn7jb7l912nbvpltk40000gp/T/rust_mozprofile.0P6JntIgDU1L"
+1548740653817	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548740653817	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548740655343	Marionette	INFO	Listening on port 56367
+1548740655448	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548740655836	Marionette	INFO	Stopped listening on port 56367
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+1548740657411	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/kq/z7k2vgsn7jb7l912nbvpltk40000gp/T/rust_mozprofile.euvbxcb2EKBr"
+1548740657928	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1548740657928	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1548740659390	Marionette	INFO	Listening on port 56403
+1548740659468	Marionette	WARN	TLS certificate errors will be ignored for this session
+1548740659883	Marionette	INFO	Stopped listening on port 56403
