@@ -1,3 +1,6 @@
 from django.db import models
 
-# Create your models here.
+class Hash(models.Model):
+    text = models.TextField()
+    # SHA256 is always 64 characters long
+    hash = models.CharField(max_length=64)
